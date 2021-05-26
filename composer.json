@@ -1,0 +1,9 @@
+{
+    "name": "mawei/swagger",
+    "description": "this is first",
+    "type": "MIT",
+    "require": {
+        "php": ">=5.6.0",
+        "jpush/jpush": "*"
+    }
+}
